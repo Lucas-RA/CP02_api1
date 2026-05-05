@@ -1,6 +1,6 @@
 # CP02 - API REST com Spring Boot - API 1
 
-API REST desenvolvida com Spring Boot para o Checkpoint 01 da FIAP.  
+API REST desenvolvida com Spring Boot para o Checkpoint 02 da FIAP.  
 O projeto contém dois domínios: **Finanças** (títulos financeiros) e **Futebol** (edições da Copa).
 
 ---
